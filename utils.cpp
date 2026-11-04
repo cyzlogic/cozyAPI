@@ -6,3 +6,5 @@ void func_293() {}
 void func_585() {}
 // update 7830
 void func_319() {}
+// update 3171
+void func_473() {}
